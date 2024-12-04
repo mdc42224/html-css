@@ -1,0 +1,21 @@
+body {
+    
+}
+
+
+#jbgLogo {
+    display: inline-block;
+}
+
+#mainTitle {
+    display: inline-block !important;
+    height: 100%;
+    margin: 0;
+    position: relative;
+    right: 522px;
+    bottom: 40px;}
+
+
+header{
+    height: 150px;
+}
